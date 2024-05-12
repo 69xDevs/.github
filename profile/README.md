@@ -1,7 +1,11 @@
 ## 🌈 Join 69x Devs and be part of something amazing! - Work in Progress
 ![Headerrrr](https://cdn.discordapp.com/attachments/1226058913477169283/1239200791131062453/header-69xdevs.webp?ex=66420f2b&is=6640bdab&hm=09a1c63acbed2eb80b5c590808a5fbd95848e71a6ecfd1531cc5d3b765a6b131&)
 
-A community for cracked developers who are building and looking to collaborate with other cracked devs to build cool products and even get funded for it
+*Note: At 69xDevs, everyone's welcome! Whether you're a developer, designer, copywriter, marketer, startup enthusiast, or even a VC investor, you'll find a place to connect and collaborate. We value and respect everyone, regardless of gender or sexuality.*
+
+Welcome to our community for cracked Developers and Designers who are passionate about building cool products and collaborating with like-minded individuals, including VCs interested in funding innovative projects or individuals seeking job opportunities.
+
+Whether you're a seasoned developer or just starting out, join us on our community to create, learn, and grow together. LFGG!!!
 
 ### 🌱 Getting Involved
 
