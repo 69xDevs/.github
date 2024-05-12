@@ -1,5 +1,5 @@
 ## 🌈 Join 69x Devs and be part of something amazing!
-![Headerrrr](https://cdn.discordapp.com/attachments/1226058913477169283/1239199530604302378/Headerrrr.webp?ex=66420dff&is=6640bc7f&hm=3a74712c7d49b26bd3cba55000b524fc58c416c5f01920efaea5c323e5a737d5&)
+![Headerrrr](https://cdn.discordapp.com/attachments/1226058913477169283/1239200791131062453/header-69xdevs.webp?ex=66420f2b&is=6640bdab&hm=09a1c63acbed2eb80b5c590808a5fbd95848e71a6ecfd1531cc5d3b765a6b131&)
 
 A community for cracked developers who are building and looking to collaborate with other cracked devs to build cool products and even get funded for it
 
