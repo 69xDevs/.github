@@ -5,7 +5,7 @@
 
 Welcome to our community for cracked Developers and Designers who are passionate about building cool products and collaborating with like-minded individuals, including VCs interested in funding innovative projects or individuals seeking job opportunities.
 
-Whether you're a seasoned developer or just starting out, join us on our community to create, learn, and grow together. LFGG!!!
+Whether you're a seasoned or just starting out, join our community to create, learn, and grow together. LFGG!!!
 
 ### 🌱 Getting Involved
 
