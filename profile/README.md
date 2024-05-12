@@ -15,4 +15,7 @@ A non-profit project by [nermalcat69](https://github.com/nermalcat69) and deploy
 
 ------------------
 
+![our-sponsors](https://media.discordapp.net/attachments/1239217579827138601/1239217609082142791/MacBook_Pro_16__-_37.webp?ex=66421ed5&is=6640cd55&hm=a1f499b868c5db80a497b5520a660c621cb5bd092bc8375efeedf3f000eea751&=&format=webp&width=2184&height=950)
+
+
 You can sponsor us to get your logo here and every repositories and even do an announcements in our discord server.
