@@ -1,4 +1,4 @@
-## 🌈 Join 69x Devs and be part of something amazing!
+## 🌈 Join 69x Devs and be part of something amazing! - Work in Progress
 ![Headerrrr](https://cdn.discordapp.com/attachments/1226058913477169283/1239200791131062453/header-69xdevs.webp?ex=66420f2b&is=6640bdab&hm=09a1c63acbed2eb80b5c590808a5fbd95848e71a6ecfd1531cc5d3b765a6b131&)
 
 A community for cracked developers who are building and looking to collaborate with other cracked devs to build cool products and even get funded for it
