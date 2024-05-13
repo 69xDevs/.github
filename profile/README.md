@@ -30,4 +30,4 @@ A non-profit project by [nermalcat69](https://github.com/nermalcat69), deployed 
 ### Sponsoring Us
 You can sponsor us to get your logo here and every repositories and even do announcements for launches or new releases in our discord server.
 
-![our-sponsors](https://media.discordapp.net/attachments/1239217579827138601/1239217609082142791/MacBook_Pro_16__-_37.webp?ex=66421ed5&is=6640cd55&hm=a1f499b868c5db80a497b5520a660c621cb5bd092bc8375efeedf3f000eea751&=&format=webp&width=2184&height=950)
+![our-sponsors](https://media.discordapp.net/attachments/1239217579827138601/1239540449476345878/our-sponsorss.webp?ex=66434b80&is=6641fa00&hm=9d9d526c6e805b82e0e8a9a858f3e8f4a47fdd6912dbebdd1e7196e5f3c15aa3&=&format=webp&width=2184&height=950)
