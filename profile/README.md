@@ -9,17 +9,23 @@ Whether you're a seasoned or just starting out, join our community to create, le
 
 ### 🌱 Getting Involved
 
-Join our [Discord Server](https://discord.gg/SH78MsdjCM) and [Get your own Subdomain](https://69x.dev) for free and host one static / node site + one free discord bot & Join our Party and 
-build for the open source community and learn with others and even get job & freelancing opportunities.
+Join our [Discord Server](https://discord.gg/SH78MsdjCM) and [get your own Subdomain - wip](https://69x.dev) for free to host one static/node site, plus one free Discord bot. Join our party, build for the open-source community, learn with others, and even seize job and freelancing opportunities.
+
+A non-profit project by [nermalcat69](https://github.com/nermalcat69), deployed on [Zerops](https://zerops.io).
+
+
+### :basecamp: Perks of Joining
+
+
+### 🧑‍🍳 Contributing to 69x Devs
 
 
 
-
-A non-profit project by [nermalcat69](https://github.com/nermalcat69) and deployed on [Zerops](https://zerops.io).
+💖 Thank you for reading. We're striving to make the open-source community a better place by helping others and creating a magical space for everyone.
 
 ------------------
 
+### Sponsoring Us
+You can sponsor us to get your logo here and every repositories and even do announcements for launches or new releases in our discord server.
+
 ![our-sponsors](https://media.discordapp.net/attachments/1239217579827138601/1239217609082142791/MacBook_Pro_16__-_37.webp?ex=66421ed5&is=6640cd55&hm=a1f499b868c5db80a497b5520a660c621cb5bd092bc8375efeedf3f000eea751&=&format=webp&width=2184&height=950)
-
-
-You can sponsor us to get your logo here and every repositories and even do an announcements in our discord server.
