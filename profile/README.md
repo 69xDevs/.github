@@ -15,6 +15,8 @@ A non-profit project by [nermalcat69](https://github.com/nermalcat69), deployed 
 
 
 ### :basecamp: Perks of Joining
+![Headerrrr](https://media.discordapp.net/attachments/1226058915377315921/1239536220913139722/buildsomething.webp?ex=66434790&is=6641f610&hm=5a4436b152d82da973723d5a861c4a5c1f3e1c7993bd9f2fb367696228423376&=&format=webp&width=2184&height=744)
+
 
 
 ### 🧑‍🍳 Contributing to 69x Devs
